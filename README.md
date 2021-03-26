@@ -11,11 +11,9 @@ Sisteme bir numara ile giriş yapılmakta , numara "1111" ise öğretmen girişi
 
 Program örnek görseleri bu şekildedir.
 
-![Giris](https://user-images.githubusercontent.com/43731116/112676241-3cf7ec80-8e79-11eb-9246-d36c208b058f.PNG)
 
-![Ogrenci](https://user-images.githubusercontent.com/43731116/112676246-3e291980-8e79-11eb-8e0a-1c6291df6a25.PNG)
-
-![Ogretmen](https://user-images.githubusercontent.com/43731116/112676781-eb039680-8e79-11eb-9f17-b6fddd2c52d3.PNG)
+<img src="https://user-images.githubusercontent.com/43731116/112676241-3cf7ec80-8e79-11eb-9246-d36c208b058f.PNG" width="360" height="360"><img src="https://user-images.githubusercontent.com/43731116/112676246-3e291980-8e79-11eb-8e0a-1c6291df6a25.PNG" width="360" height="360">
+<img src="https://user-images.githubusercontent.com/43731116/112676781-eb039680-8e79-11eb-9f17-b6fddd2c52d3.PNG" width="620" height="620">
 
 
 ### Sistem ilişkisel veri tabanı ile çoklu ders sistemine entegre şekilde geliştirilebilir.
