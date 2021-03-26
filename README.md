@@ -7,7 +7,7 @@ SQL Server ve C# ile Öğrenci Not Sistemi
 güncelleme gibi işlemler eş zamanlı ve aktif olarak kullanılmaktadır.
 Kod bölümünde veritabanı ismi değiştirilerek kullanılabilir.
 
-Sisteme Bir numara ile giriş yapılmakta , numara "1111" ise öğretmen girişi, değil ise eşleşen bir öğrenici numarasının not durumu görülmektedir. 
+Sisteme bir numara ile giriş yapılmakta , numara "1111" ise öğretmen girişi, değil ise eşleşen bir öğrenici numarasının not durumu görülmektedir. 
 
 Program örnek görseleri bu şekildedir.
 
